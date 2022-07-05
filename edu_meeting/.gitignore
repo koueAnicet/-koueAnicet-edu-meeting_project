@@ -1,1 +1,4 @@
 envW/
+env/
+__pycache__
+edu_meeting/db.sqlite3
